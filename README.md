@@ -1,2 +1,2 @@
 # transcripts
-Subtitles, transcripts, and translations
+Subtitles, transcripts, and translations, for reference or copy-pasta purposes.
